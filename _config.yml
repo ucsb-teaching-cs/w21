@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CS190J (W21) at UCSB
-tagline: CS190J (W21)
+tagline: Teaching Computer Science at UCSB
 description: UCSB CMPSC 190J: Teaching Computer Science
 author: YKK
 baseurl: '/w21' # the subpath of your site, e.g. /blog
