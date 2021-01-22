@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CS190J (W21) at UCSB
 tagline: Teaching Computer Science at UCSB
-description: UCSB CMPSC 190J: Teaching Computer Science
+description: UCSB CMPSC 190J - Teaching Computer Science
 author: YKK
 baseurl: '/w21' # the subpath of your site, e.g. /blog
 url: 'https://ucsb-teaching-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
