@@ -71,11 +71,11 @@ Use the **GitHub** link in the upper-right corner of this page to navigate to th
 **Fork** the `PROJECT_REPO` using the GitHub interface. 
 You can get the `PROJECT_REPO` URL/address by clicking on the green "Code" button on the GitHub's website (you'll likely only need the https URL).
 
-Note that **the _forked_ repo will a different URL** (i.e., web address) for each person who forked this repo. We will refer to it as a `PROJECT_REPO_FORK`.
+Note that **the _forked_ repo will produce a different URL** (i.e., web address) for each person who forked this repo. We will refer to it as a `PROJECT_REPO_FORK`.
 
 ---
 
-At this point, you have to alternative routes that you can take:
+At this point, you have two alternative routes that you can take:
 * you can continue adding the files using the GitHub web interface
 * you can continue adding the files using `git` and the command line
 
