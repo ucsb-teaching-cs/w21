@@ -2,7 +2,7 @@
 name: Justin Vo
 role: Undergraduate Learning Assistant
 pronouns: Him/His
-photo: CS156-W21-Justin-Vo.png
+photo: CS156-W21-Justin-V.png
 ---
 
 Hi! I'm Justin Vo, a second year computer science major. I've been an Undergraduate Learning Assistant since January 2021
