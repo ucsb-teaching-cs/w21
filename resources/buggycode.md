@@ -19,7 +19,7 @@ In preparation for the 1-on-1 observations, we will practice assisting students 
 ## Prior to class
 
 Students submit 
-* the hardest questions they were asked so far related to concepts and code
-* buggy student code prior to the class (redact any student-specific information)
+* The hardest questions they were asked so far related to concepts and code
+* Buggy student code prior to the class. They can either create their own example or use a student's example (redact any student-specific information)
 
 Follow the instructions in the README that's in the `resources/_buggycode-peer-review/csXX-NN-NetID` directory.
