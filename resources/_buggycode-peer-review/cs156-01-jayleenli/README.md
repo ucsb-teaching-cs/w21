@@ -11,4 +11,4 @@ Followup: Why are the compound ones also failing?
 ### Conceptual questions
 Why is code testing important?
 
-What's the difference between maven/spring boot and React?
+What's the difference between Maven/Spring Boot and React?
