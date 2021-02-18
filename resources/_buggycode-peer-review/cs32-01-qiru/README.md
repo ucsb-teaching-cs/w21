@@ -5,7 +5,7 @@
 
 ### Programming question
 
-This lab for CS 32 requires the ability to debug with multiple files. The executable is built with classes and methods from __dataAQ__, __demogData__, __stateDemog__, __hospitalData__, __stateHosp__, and __parse__. 
+This lab for CS 32 requires the ability to debug with multiple files. The executable is built with classes and methods from _dataAQ_, _demogData_, _stateDemog_, _hospitalData_, _stateHosp_, and _parse_. 
 Compile the files using "Make". Run the test file with "./testStates".
 
  >   testStates.cpp: The student failed 2 tests in testStates.cpp which test for sorting states based on hospital rating. Here's the error message he get: 
