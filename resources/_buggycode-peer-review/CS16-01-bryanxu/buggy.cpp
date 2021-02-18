@@ -5,8 +5,8 @@ void print_freq(string sentence, int size){
     char m = ' ';  
     char n = ' ';                                             // we go down the line of our new_sentence and compare, and determine their frequencies by appending our count
     for (int i = 0; i < size; i++) {
-        m = newString[i];
-        n = newString[i+1];
+        m = new_sentence[i];
+        n = new_sentence[i+1];
         count++;
         if (n != m) {
             cout << endl << m << ": " << count;  // when two different letters are next to each other, the count stops and we output
