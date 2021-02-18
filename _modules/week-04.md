@@ -3,5 +3,5 @@ title: Academic Integrity
 ---
 
 Lec 04
-: [Academic Integrity](#)
+: [Academic Integrity](../resources/integrity)
 
