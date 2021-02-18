@@ -2,7 +2,7 @@ CXX=clang++
 #CXX=g++
 
 #CXXFLAGS= -Wall  -std=c++14
-CXXFLAGS= -Wall  -std=c++14
+CXXFLAGS= -Wall  -std=c++14 -g
 
 BINARIES=hospitalData.o dataProj testStates testSort
 
