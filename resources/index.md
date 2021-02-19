@@ -30,3 +30,14 @@ Below are some of the teaching tips that we outlined during our initial lectures
 * Refer to the lab/homework write up and syllabus where appropriate.
 * If you don't know how to handle a situation, inform the TA or instructor.
 * Reflect on your tutoring/TA sessions to thoghtfully and deliberately improve.
+
+
+### Key Take-aways (Peer Mentoring Activity)
+* Gauging how a student is feeling may be important; you may need to adjust your demeanor/tone with the student accordingly to make them more comfortable or to diffuse stress.
+* It's important not to trivialize students'  problems.
+* Ask clarifying questions at the beginning, before trying to tackle a problem head-on.
+* Ask students to explain what they've already tried.
+* Let students describe what their code is doing / what the problem is; don't try to just look at the code first and figure it out on your own.
+* Lead the student towards the issue rather than telling them where the issue is in their code.
+* Encourage students to experiment with their code themselves rather than giving them direct answers.
+* Refrain from telling students whether their code is right and have them walk through an example or run their code themselves after making modifications.
