@@ -3,7 +3,10 @@
 ## Contributed by Zachary Minshall
 
 ### Programming question
-buggy.js: This is the code I have in my Rational.js.
+buggy.js: This is the code I have in my Rational.js
+FailingTest.PNG: This is the output of my failing test
+subtract.Test.jsx: This is the test code for the Subtract function
+
 We have to modify the Rational class so that all of the tests pass. My "subtract" function still isn't passing and I don't know why! The tests for my "minus" function pass and the "subtract" function is just utilizing the "minus"! I have included a screenshot of the failing test (FailingTest.PNG), the test code (subtract.Test.jsx), and the relevant code in my Rational class (buggy.js).
 
 ### Conceptual questions
