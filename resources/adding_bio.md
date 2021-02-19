@@ -186,19 +186,22 @@ In order for your changes to be added to the main `PROJECT_REPO`, you need to is
 
 Pull Requests (PRs) are typically issued through the GitHub web interface. 
 
-**Important**: make sure to select the "[compare across forks](#)" link and then set the `base` and `head` repositories and branches accordingly.
+To submit a PR go to the `PROJECT_FORK_REPO` page on GitHub. Click on the "Pull Requests" **tab** and click on the green "New Pull Request" button.
 
+**Important**: make sure to select the "`compare across forks`" link and then set the `base` and `head` repositories and branches accordingly.
+
+Fill out the necessary information and then to finalize your PR, click on the green "Create Pull Request".
 
 -----
 
 
-If you would like us to add or correct anything, feel free to [edit this guide on GitHub](https://github.com/.md) and submit a Pull Request from your forked repo.
+If you would like us to add or correct anything, feel free to [edit this guide on GitHub](https://github.com/ucsb-teaching-cs/w21/edit/master/resources/adding_bio.md) and submit a Pull Request from your forked repo.
 
 ---------
 
 # Acknowledgement / Contact Me
 
-If you have any questions or suggestions, don't hesitate to reach out to me via ykk@ucsb edu.
+If you have any questions or suggestions, don't hesitate to reach out to me via ykk@ucsb edu (remember to replace a space with a `.` between the `ucsb` and `edu`).
 
 For attribution, please keep the reference to the author:
 
@@ -206,5 +209,5 @@ For attribution, please keep the reference to the author:
 
 ------
 
-Page last updated: Jan 2021
+Page last updated: Feb 2021
 
