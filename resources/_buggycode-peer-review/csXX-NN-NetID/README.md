@@ -60,5 +60,3 @@ If you are not adding these files from the command line and instead prefer to us
 -----
 
 If you would like us to add or correct anything, feel free to [edit this file on GitHub](https://github.com/ucsb-teaching-cs/w21/edit/master/resources/buggycode-peer-review/csXX-NN-NetID/README.md) and submit a Pull Request from your forked repo.
-
-
