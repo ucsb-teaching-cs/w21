@@ -5,7 +5,7 @@
 ### Instructions
 Delete these instructions in your final submission, only updating YOURNAME and the "Programming Question" and "Conceptual Questions" sections accordingly.
 
-* Copy the directory/folder `CSXX-NN-NetID`
+* Copy the directory/folder `csXX-NN-NetID`
    * replace the `XX` with your course number
    * set the `NN` to `01`
    * set the NetID in the folder name to _your_ NetID.
