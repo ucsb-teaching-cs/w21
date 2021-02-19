@@ -1,4 +1,4 @@
-# Buggy code for CS 190 from CS XX
+# Buggy code for CS 190 from CS 09
 
 ## Contributed by YOURNAME
 
