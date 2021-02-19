@@ -96,17 +96,17 @@ This is a writing assignment, so we emphasize on producing a coherent and well s
 # Submission instructions
    
 * Type out your essay.
-  - We recommend using the following template on Overleaf
-  - You'll need to create an account if you don't already have one.
-  - If you don't end up using Overleaf, make sure that you properly cite both papers in your essay.
+  - We recommend using the following template on Overleaf: <https://www.overleaf.com/read/dshdttggkpgw>. You'll need to create an account if you don't already have one.
+
+* Make sure that you **properly cite both papers** within your essay (as shown in the template).
 
 * Insert your paper1 and paper2 as an appendix at the end of your essay.
   - Upload the PDF of papers to your Overleaf account
   - Use the `pdfpages` package: At the top of the LaTex file (after the `\documentclass`) add `\usepackage{pdfpages}`
-  - To include all the pages in the PDF file: `\includepdf[pages=-]{myfile.pdf}` replacing `myfile.pdf` with the name of the PDF that you uploaded.
+  - To include all the pages in the PDF file: `\includepdf[pages=-]{myfile.pdf}` replacing `myfile.pdf` with the name of the PDF that you uploaded (using the "upload" icon at the top of the list of the files on the left pane).
 
-* Save your essay as a PDF.
+* Save your essay as a PDF (if using Overleaf, there's a "Download PDF" icon on the top-left corner of the document preview pane).
 
-* Upload it to Gradescrope to H02.
+* Upload your file to Gradescrope to H02.
 
 
