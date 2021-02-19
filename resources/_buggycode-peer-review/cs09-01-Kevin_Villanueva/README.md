@@ -1,6 +1,6 @@
 # Buggy code for CS 190 from CS 09
 
-## Contributed by YOURNAME
+## Contributed by Kevin Villanueva
 
 ### Instructions
 Delete these instructions in your final submission, only updating YOURNAME and the "Programming Question" and "Conceptual Questions" sections accordingly.
