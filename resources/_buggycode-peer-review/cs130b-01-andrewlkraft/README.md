@@ -13,6 +13,7 @@
 
 * Which functions could be buggy to cause this issue?
 * What sort of things cause undefined behavior in your code?
+* How can you make sure you aren't doing things which could cause undefined behavior?
 
 
 -----
