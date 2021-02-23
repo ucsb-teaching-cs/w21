@@ -106,10 +106,10 @@ Now, navigate to the `_staffers` folder.
 * Copy the following template and update the fields accordingly.
 	* Leave the opening and closing dashes intact.
 	* Update your `name`
-	* Leave the `role` as ULA
+	* Leave the `role` as `Undergraduate Learning Assistant`
 	* Update the `pronouns` to only include yours
 	* Use the base filename (not the path) for the `photo` that you uploaded
-	* Add your bio
+	* Add your bio - please, **do not** list your contact information as part of your bio.
 
 ```
 ---
