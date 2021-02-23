@@ -1,6 +1,6 @@
 ---
 name: Andrew Kraft
-role: ULA
+role: Undergraduate Learning Assistant  
 pronouns: He/Him
 photo: CS130B-W21-Andrew-K.png
 ---
