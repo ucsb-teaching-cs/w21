@@ -54,10 +54,14 @@ What would measurably demonstrate that the audience understood the topic?
    
 * Submit a file that outlines the following:
   * Title of your activity / topic
-  * List of learning objectives (that use action verbs)
+  * Learning objectives (that use action verbs)
   * Assessment questions / exercise
 
 * Include your visuals / notes for the activity (e.g., a ppt, an explanation of what you will draw, a pre-filled Python notebook and the data file)
 
-* Upload your materials to Gradescrope to H03.
+* Upload your materials to Gradescope to H03.
+
+After your presesntation, you will receive a link with the recording and a form through which you can submit your reflection.
+
+If, for some reason, you would be unable to lead your demo live during our lecture, then send me an email **before Friday**, with the subject "CS 190J Teaching Demo" and the link to your pre-recorded video. In that email, let me know whether you'd be able to lead the assessment activity during the lecture; otherwise, the materials and the instructions for how to lead it should be uploaded to Gradescope (also **before Friday**).
 
