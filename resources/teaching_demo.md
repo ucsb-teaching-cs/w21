@@ -16,9 +16,9 @@ parent: Resources
 
 ## Assignment 
 
-ULAs often conduct review sessions where they go over various course topics, explain how to approach solving certain types of problems, demonstrate how to approach/deconstruct a specific concept.
+ULAs often conduct review sessions where they go over various course topics, explain how to approach solving certain types of problems, and demonstrate how to approach/deconstruct a specific concept. At the end of this assignment, you will have seen the differenct types of concepts / questions your fellow 190J peers have seen this quarter, and the strategies they use to address them.
 
-For this assignment, we ask that you prepare a 5-10 minute teaching demo explaining a topic/concept or a walk-through of an example, and then test how well your audience/"students" are able to apply what you've explained. This demo will be recorded, so that after this exercise, you can watch it and reflect on your experience, what you did well, and what you or would have liked to do differently during the demo / would like to do differently in the future.
+For this assignment, we ask that you prepare a 5-10 minute teaching demo explaining a topic/concept or a walk-through of an example from the course your are a ULA for, and then test how well your audience/"students" are able to apply what you've explained by asking some follow-up questions. This demo will be recorded, so that after this exercise, you can watch it and reflect on your experience, what you did well, and what you or would have liked to do differently during the demo / would like to do differently in the future.
 
 The goals of this assignment are to:
 * Practice identifying learning goals/objectives 
