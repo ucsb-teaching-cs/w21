@@ -29,7 +29,7 @@ Below are some of the teaching tips that we outlined during our initial lectures
 * Keep the interaction interesting.
 * Refer to the lab/homework write up and syllabus where appropriate.
 * If you don't know how to handle a situation, inform the TA or instructor.
-* Reflect on your tutoring/TA sessions to thoghtfully and deliberately improve.
+* Reflect on your tutoring/TA sessions to thoughtfully and deliberately improve.
 
 
 ### Key Take-aways (Peer Mentoring Activity)
@@ -41,3 +41,11 @@ Below are some of the teaching tips that we outlined during our initial lectures
 * Lead the student towards the issue rather than telling them where the issue is in their code.
 * Encourage students to experiment with their code themselves rather than giving them direct answers.
 * Refrain from telling students whether their code is right and have them walk through an example or run their code themselves after making modifications.
+
+### If you don't know
+During the lab or the office hours, if a student asks you a question that you don't know how to answer refrain from just giving them some answer. 
+* Don't be afraid to say "I don't know but let's find out".
+* You can also tell them that you are not sure what might be going wrong or what the answer to their administrative question is, but you'll find out
+   * ask the TA or another ULA that is assigned to the section (you can message them privately on Zoom or use Slack)
+   * if that's an option, message/ask the instructor
+* if your course is using Piazza or Gauchospace's Q2A forum or some other mechanism for students to ask questions, you can also tell the student to post their question there and assure them that it will be answered soon.
